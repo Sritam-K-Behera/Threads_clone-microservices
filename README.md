@@ -1,2 +1,2 @@
-![Architecture Diagram](./Threads.png)
+![Architecture Diagram](Threads.png)
 
